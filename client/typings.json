@@ -1,0 +1,8 @@
+{
+  "name": "sample-three",
+  "dependencies": {},
+  "globalDependencies": {
+    "lodash": "registry:dt/lodash#3.10.0+20160619033623",
+    "three": "registry:dt/three#0.0.0+20160627210315"
+  }
+}
